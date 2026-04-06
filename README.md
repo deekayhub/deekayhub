@@ -1,80 +1,91 @@
-# 🚀 Hi, I'm Deepak Kumar  
+<!-- HEADER -->
+<h1 align="center">Hi 👋, I'm Deepak Kumar</h1>
+<h3 align="center">🚀 Full Stack Developer | Laravel Expert | React Enthusiast</h3>
 
-💻 Full Stack Developer | ⚡ Laravel Specialist | 🌐 React Enthusiast  
-
----
-
-## 👨‍💻 About Me
-- 🔭 Currently working on **SaaS Products & Web Applications**
-- 🌱 Learning **Next.js, System Design & Scalable Architecture**
-- 💡 Passionate about building **modern UI + high-performance backend**
-- 🎯 Goal: Build impactful products for the **Indian market**
-- 💬 Ask me about **Laravel, PHP, React, APIs, SaaS ideas**
+<p align="center">
+  <a href="https://github.com/deekayhub">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Laravel+%7C+React+%7C+SaaS+Builder;Building+Modern+Web+Apps;Always+Learning+New+Things+🚀" />
+  </a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 👨‍💻 About Me  
 
-### 🚀 Frontend
-![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-blue?style=for-the-badge&logo=tailwindcss)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-
-### ⚙️ Backend
-![PHP](https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=php)
-![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel)
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-
-### 🗄️ Database
-![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
-![Prisma](https://img.shields.io/badge/Prisma-darkblue?style=for-the-badge&logo=prisma)
-
-### 🔧 Tools
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visual-studio-code)
-![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
+- 🔭 Building **SaaS Products & Scalable Web Apps**  
+- 🌱 Currently learning **Next.js & System Design**  
+- 💡 Love working on **modern UI + powerful backend**  
+- 🎯 Focused on **real-world problem solving products**  
+- 💬 Ask me about **Laravel, PHP, React, APIs**  
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Tech Stack  
 
-![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=deekayhub&show_icons=true&theme=tokyonight)
+### 🚀 Frontend  
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,nextjs" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=deekayhub&theme=tokyonight)
+### ⚙️ Backend  
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deekayhub&layout=compact&theme=tokyonight)
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 Component Library SaaS
-- Modern UI components (Tailwind, Bootstrap, React)
-- Copy-paste ready code
-- Live preview system  
-
-### 🔹 PG Management SaaS
-- Room & Bed Management  
-- Rent tracking & reminders  
-- Admin dashboard  
-
-
-## 🌐 Connect With Me
-
-- 💼 LinkedIn: https://linkedin.com/in  
-- 📧 Email: deekay843424@gmail.com  
-- 🌍 Portfolio: https://deepak-kumar-resume.vercel.app/ 
+### 🗄️ Database & Tools  
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,prisma,git,github,vscode,postman" />
+</p>
 
 ---
 
-## ⚡ Fun Fact
-> I love turning ideas into real-world products 🚀  
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=deekayhub&show_icons=true&theme=tokyonight&border_radius=10" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=deekayhub&theme=tokyonight&border_radius=10" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deekayhub&layout=compact&theme=tokyonight&border_radius=10" height="150"/>
+</p>
 
 ---
 
-## ⭐ Support Me
-If you like my work, give a ⭐ to my repositories and follow me!
+## 🚀 Featured Projects  
+
+### 🔹 Component Library SaaS  
+✨ Tailwind, Bootstrap & React Components  
+✨ Copy-paste ready UI blocks  
+✨ Live preview system  
+
+### 🔹 PG Management SaaS  
+🏠 Room & Bed Management  
+📊 Rent tracking & automation  
+📩 Smart reminders  
+
+## 🌐 Connect With Me  
+
+<p align="center">
+  <a href="mailto:deekay843424@gmail.com">
+    <img src="https://img.shields.io/badge/Email-deekay843424@gmail.com-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+ 
+
+## ⚡ Fun Fact  
+
+<p align="center">
+💡 I turn ideas into real-world SaaS products 🚀  
+</p>
+
+---
+
+## ⭐ Support Me  
+
+<p align="center">
+If you like my work, consider giving a ⭐ and follow me ❤️  
+</p>
