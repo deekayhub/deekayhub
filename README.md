@@ -62,17 +62,12 @@
 - Rent tracking & reminders  
 - Admin dashboard  
 
-### 🔹 QR Safety System
-- QR-based emergency contact system  
-- Scan → Notify owner instantly  
-
----
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINK  
-- 📧 Email: yourmail@example.com  
-- 🌍 Portfolio: https://yourportfolio.com  
+- 💼 LinkedIn: https://linkedin.com/in  
+- 📧 Email: deekay843424@gmail.com  
+- 🌍 Portfolio: https://deepak-kumar-resume.vercel.app/ 
 
 ---
 
